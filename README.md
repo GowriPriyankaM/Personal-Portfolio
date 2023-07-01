@@ -8,6 +8,12 @@ This repo features a Personal Portfolio Webpage I have created using only **HTML
 
 *Here's a Preview of how it looks like*
 
+## Stack :
+
+- HTML5
+- CSS3
+- Canva
+
 ## License :
   
 This project is **[MIT Licensed](./LICENSE).**
