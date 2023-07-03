@@ -10,9 +10,9 @@ This repo features a Personal Portfolio Webpage I have created using only **HTML
 
 ## Stack :
 
-- HTML5
-- CSS3
-- Canva
+- *HTML5*
+- *CSS3*
+- *Canva* (for Logo & Webpage design)
 
 ## License :
   
