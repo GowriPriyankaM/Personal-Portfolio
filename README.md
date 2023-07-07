@@ -64,8 +64,6 @@ If you want to contribute to the project, follow the below steps.
 
       Click on the "Compare & pull request" button and provide a clear title and description for your pull request, explaining the changes you've made and submit it.
 
-      Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
-
       *Congratulations! You have successfully contributed to the project.*
 
 ## Stack :
