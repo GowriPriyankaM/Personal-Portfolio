@@ -4,7 +4,12 @@
 
 This repo features a Personal Portfolio Webpage I have created using only **HTML** and **CSS** for a certification project in Responsive web design, FreeCodeCamp.
 
-## Preview :
+### Objective : 
+
+The main objective of this project is to build a page that is functionally similar to this
+**[Website](https://personal-portfolio.freecodecamp.rocks/)**.
+
+### Preview :
 
 *Here's a Preview of how it looks like*
 
