@@ -17,7 +17,7 @@ The main objective of this project is to build a page that is functionally simil
 
 If you want to contribute to the project, follow the below steps.
 
-1. **Fork the Repository :** On the project's GitHub page, click the "Fork" button at the top right corner. This creates a copy of the project under your own GitHub account.
+1. **Fork the Repository :** Click on the "Fork" button at the top right corner of this page. This creates a copy of the project under your own GitHub account.
 
 2. **Clone the Repository :** Once you've forked the repository, you'll want to have a local copy of it on your machine. 
  
@@ -29,7 +29,7 @@ If you want to contribute to the project, follow the below steps.
  
       Here, replace "username" with your GitHub username.
  
-3. **Create a Branch :** It's good practice to create a new branch for your contributions. This keeps your changes isolated from the main project. 
+3. **Create a Branch :** It's good practice to create a new branch for your contributions to keep your changes isolated from the main project. 
 
       Run the following command to create and switch to a new branch.
 
