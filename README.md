@@ -21,7 +21,7 @@ If you want to contribute to the project, follow the below steps.
 
 2. **Clone the Repository :** Once you've forked the repository, you'll want to have a local copy of it on your machine. 
  
-      To do this, open a terminal or command prompt, navigate to your desired directory, and run the following command.
+      Open the terminal or command prompt, navigate to your desired directory, and run the following command.
  
       ```
       git clone https://github.com/username/Personal-Portfolio.git
