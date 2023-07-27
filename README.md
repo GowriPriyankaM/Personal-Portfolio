@@ -49,7 +49,7 @@ If you want to contribute to the project, follow the below steps.
       git add file-name
       ```
 
-      This command adds all modified and new files for commit. If you want to add specific files, replace "file-name" with the file names.
+      This command adds all modified and new files for commit. Here, replace "file-name" with the file names.
 
       Next, commit your changes with a descriptive commit message.
 
