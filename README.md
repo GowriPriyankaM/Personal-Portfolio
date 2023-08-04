@@ -2,7 +2,7 @@
 
 ## Description :
 
-This repo features a Personal Portfolio Webpage I have created using only **HTML** and **CSS** for a certification project in Responsive web design, FreeCodeCamp.
+This repo features a Personal Portfolio Webpage I have created using only **HTML5** and **CSS3** for a certification project in Responsive web design, FreeCodeCamp.
 
 ### Objective : 
 
@@ -75,7 +75,7 @@ If you want to contribute to the project, follow the below steps.
 
 - HTML5
 - CSS3
-- Canva *(for Logo & Webpage design)*
+- Canva (for Logo & Webpage design)
 
 ## License :
   
